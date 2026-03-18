@@ -2,7 +2,7 @@ TO: Info@helsinkihairsalon.fi
 SUBJECT: Helsinki Hair Salon — uusi verkkosivusto valmis + lasku (399€)
 PREVIEW: https://yassinfennir.github.io/helsinki-hair-salon/
 INVOICE: YEF-2026-005
-DATE: 2026-03-18T03:04:31.720Z
+DATE: 2026-03-18T03:16:20.957Z
 
 Hei!
 
