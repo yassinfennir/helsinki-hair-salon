@@ -1,8 +1,8 @@
 TO: Info@helsinkihairsalon.fi
 SUBJECT: Helsinki Hair Salon — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://helsinki-hair-salon-preview.netlify.app
+PREVIEW: https://yassinfennir.github.io/helsinki-hair-salon/
 INVOICE: YEF-2026-005
-DATE: 2026-03-18T02:46:05.423Z
+DATE: 2026-03-18T03:04:31.720Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin kampaamonne Helsinki Hair Salon verkkosivustoon ja huomasin, etta siin
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://helsinki-hair-salon-preview.netlify.app
+👉  https://yassinfennir.github.io/helsinki-hair-salon/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
